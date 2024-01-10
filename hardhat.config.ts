@@ -46,7 +46,7 @@ module.exports = {
       initialBaseFeePerGas: 0,
     },
 
-    goerli: {
+    godfsferli: {
       url: "https://endpoints.omniatech.io/v1/eth/goerli/public"
     },
 
