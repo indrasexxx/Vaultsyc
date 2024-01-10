@@ -7,7 +7,7 @@ SyncSamless and efficient d nge on the zkSync Era, featuring the future-proti-po
 This repocontains the core contracts of the SyncSwap protocol. For an overview of the architecture, see the [API documentation](https://syncswap.gitbook.io/api-documentation/).
 
 ## Build
-To build artifacts, pse make sure you have Yarn installed.
+To build artifacts, pe sure you have Yarn installed.
 ```
 $ yarn
 $ yarn build
